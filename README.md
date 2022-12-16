@@ -8,4 +8,4 @@ Mapas de Puerto Rico, sus areas funcionales y municipios.
   - [x] Aguadilla
   - [x] Arecibo
   - [x] Mayagüez
-- [ ] Municipalities by barrios
+- [ ] Municipalities with barrios
